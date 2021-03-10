@@ -1,0 +1,14 @@
+{
+  "name": "tablas",
+  "version": "1.0.0",
+  "description": "Usando tablas de la verdad y operadores lógicos",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "javascript"
+  ],
+  "author": "Carlos Dugarte <contacto@carlosdugarte.com>",
+  "license": "MIT"
+}
