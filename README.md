@@ -4,12 +4,18 @@ Este es un desafío que contiene Tablas de verdad y compuertas lógicas.
 
 Un cliente de un banco quiere transferir dinero a una cuenta de otro cliente.
 //Tener en consideración:
-El banco del cliente
-La cuenta del cliente
-El saldo del cliente
-El banco de destino
-La cuenta de destino
-El horario de transferencia (0 - 24)
+
+El banco del cliente.
+
+La cuenta del cliente.
+
+El saldo del cliente.
+
+El banco de destino.
+
+La cuenta de destino.
+
+El horario de transferencia (0 - 24).
 
 // el monto a Transferir es $1M USD
 
@@ -25,7 +31,7 @@ Si el banco de destino es diferente al banco del cliente la comisión de transac
 
 //Solo puede hacerse transferencias en el horario de 9hrs a 12hrs y de 15hrs a 20hrs
 
-//La solución debe estar de dos maneras:
+//Tiene dos posibles soluciones:
 
 1. Una solución con varias lineas de código.
 2. Una solución con un solo if.
